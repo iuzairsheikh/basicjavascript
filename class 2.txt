@@ -1,0 +1,9 @@
+block yia phr scope
+
+2 data ko check kraingy if ki condition say
+
+!= iska kam kryga ==
+!== iska kam kryga ===
+
+== isko khyte hain equal is main satement nahi check kryga 
+=== yia b equal hai but is main satement b check kryga 
