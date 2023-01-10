@@ -88,58 +88,59 @@
 // var c = a*b
 // document.write("<b>Total cost to buy 5 tickets to a movie is 3000PKR</b>") 
 
-// const a = 10
-// const b = 1
-// const c = 4
+// document.write("Table of 4<br>")
+// document.write("4x1=4<br>");
+// document.write("4x2=8<br>");
+// document.write("4x3=12<br>");
+// document.write("4x4=16<br>");
+// document.write("4x5=20<br>");
+// document.write("4x6=24<br>");
+// document.write("4x7=28<br>");
+// document.write("4x8=32<br>");
+// document.write("4x9=36<br>");
+// document.write("4x10=40<br>");
 
-// para = document.getElementById('abc')
+// °C = 5/9(°F – 32);
+// °F =
+// function temperatureConverter(valNum) {
+//     valNum = parseFloat(valNum);
+//     document.getElementById("outputCelsius").innerHTML = (valNum-32) / 1.8;
+//   }
 
-// for(let i = 0; i < a.lenght; i++) {
-//    para.innerHTML += ``
-// }
+// var a = 10
+// document.write("Result<br>The value of a is: 10<br>");
+// var b = ++a 
+// document.write("<br>The value of ++a is: 11<br>Now the value of a is: 11<br>");
 
-// document.write('1 + 4')
+// var a = 11
+// var b = ++a 
+// document.write("<br>The value of a++ is: 11<br>Now the value of a is: 12<br>");
 
-// let date = new Date();
-// console.log(date);
+// var a = 11
+// var b = --a 
+// document.write("<br>The value of --a is: 11<br>Now the value of a is: 11<br>");
 
-// const month = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-// let date = new Date();
-// let gettingMonthFromArray = month[date.getMonth()];
-// alert(`Current month: ${gettingMonthFromArray}`)
+// var a = 11
+// var b = a-- 
+// document.write("<br>The value of a-- is: 11<br>Now the value of a is: 10<br>");
 
-// const days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
-// let date = new Date();
-// let gettingDaysFromArrays = days[date.getDay()];
-// alert(`Today is ${gettingDaysFromArrays}`)
+// var a = 2
+// var b = 1
+// var Result = --a - --b + ++b + b--
+// document.write("a is 2 <br>b is 1<br>result is 3");
+// document.write("1<br> 1 - 0<br>1 - 0 + 1<br>1 - 0 + 1 + 1")
 
-// const days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
-// let date = new Date();
-// let gettingDaysFromArrays = days[date.getDay()];
-// if (gettingDaysFromArrays == "sunday" || gettingDaysFromArrays == "saturday" ) {
-//     alert(`Today is Fun Day!`)
-// } else {
-//     alert(`Today is working Day`)
-// };
+// var a = English
+// var b = Math
+// var c = urdu
+// var English = 100
+// var Math = 100
+// var Urdu = 100
 
-// let date = new Date();
-// let Days = date.getDate();
-// if(Days <= 16) {
-//     alert(`First fifteen days of the month`)
-// } else {
-//     alert(`Last days of the month`)
-// }
+// var resultOfcomputattion = (4 * 2) * (4 + 2)
+// document.write(resultOfcomputattion);
 
-// let gettingDate = new Date();
-// document.write(`<h2> ${gettingDate} </h2>`);
-// let gettingTime = gettingDate.getTime();
-// document.write(`<h2> Elapsed since January 1, 1970: ${gettingTime} </h2>`);
-// let gettingOldDate = new Date("01-01-2001");
-// console.log(gettingOldDate);
-// let set = gettingOldDate.setDate(1)
-// let set1 = gettingOldDate.setTime(12)
-// console.log(set);
-// let gettingTimes = gettingOldDate.getMinutes();
-// document.write(`<h2> Elapsed since January 1, 1970: ${gettingTimes} </h2>`);
+// var userName = "Karachi"
+// var city = prompt(userName,"Welcome the city of light")
+// alert(userName)
 
-// ==========> UZAIR SHEIKH <====================
