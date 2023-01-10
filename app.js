@@ -144,3 +144,59 @@
 // var city = prompt(userName,"Welcome the city of light")
 // alert(userName)
 
+// var city  = prompt("Enter your city name");
+// if(city == "karachi" || city == "Karachi"){
+//     document.write("Welcome to City of light");
+// }
+// else{
+//     document.write(`Welcome to ${city}`)
+// }
+
+// var gender = prompt("Enter Your Gender")
+// if(gender == "Male"|| gender == "Female"){
+//     document.write("Good morning sir");
+// }
+// else{
+//   document.write("Good morning Ma'am");
+// }
+
+// var signal = prompt("Enter your colur");
+// if(signal == "Red"){
+//     document.write("Must Stop");
+// }
+// if(signal == "Yellow"){
+//     document.write("Ready to move");
+// }
+// if(signal == "Green"){
+//     document.write("Move now");
+// }
+
+// var fuel = prompt("Enter value")
+
+// // var fuel = 1
+// // var fuel = 0.25
+// if(fuel >= "1"){
+//     document.write("Enjoy your road");
+// } else {
+//     document.write("Please refill the fuel in your car")
+// }
+
+// var a = 4;
+// if (a++ === 5){ 
+//     alert("given condition for variable a is true"); 
+// }
+
+// var c = 12;
+//  if (c++ === 13){ 
+//     alert("condition 1 is true");
+//  } 
+//  if (c === 13){
+//      alert("condition 2 is true"); 
+//     } 
+//  if (++c < 14){ 
+//     alert("condition 3 is true"); 
+// } 
+//  if(c === 14){ 
+//     alert("condition 4 is true"); 
+//    } 
+ 
